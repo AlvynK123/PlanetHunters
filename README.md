@@ -1,7 +1,7 @@
 # PlanetHunters
 
-# Project Information
+### Project Information
 
-# Results
+### Results
 
-# Real World Application
+### Real World Application
