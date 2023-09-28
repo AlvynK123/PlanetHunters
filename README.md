@@ -16,6 +16,9 @@ Logisitc Regression
 - Accuracy: ~99.97% (train) , ~99.56% (test)
 - SMOTE (Synthetic Minority Oversampling Technique) to augment our data: Using existing minority data (exoplanets), SMOTE creates more minority data to help balance the dataset. This ensures that the model will not have a bias towards the majority data.
 
+<img width="545" alt="Screenshot 2023-09-28 at 12 39 14 AM" src="https://github.com/AlvynK123/PlanetHunters/assets/35633980/52614996-0847-4ca3-8374-80fa7c0d3791">
+
+
 Complex Machine Learning Algorithms
 - MLP (Multi-layer Perceptron) with augmented data [Provided an accuracy of 99.83%]
 - Neural Networks (Tensorflow and Keras) [Yielded an accuracy 99.47%]
