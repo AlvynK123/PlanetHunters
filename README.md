@@ -6,6 +6,17 @@
 - Extracted data sets from the NASA Exoplanet Archive to manipulate data with Pandas in Python
 - Implemented Synthetic Minority Over-sampling Technique to augment found data as a means to develop a Logisitc Regression Model: Tested distinct classification models to yield the best result of 99.97% accuracy
 
+### Flux Curves: Exoplanets
+Regular dips at consistent intervals (Green)
+
+<img width="386" alt="Screenshot 2023-09-28 at 12 44 56 AM" src="https://github.com/AlvynK123/PlanetHunters/assets/35633980/113633c7-230b-4bde-8dfc-963372a2b045">
+
+### Flux Curves: Nonexoplanets
+Mostly fairly constant flux measures (Orange) 
+
+<img width="390" alt="Screenshot 2023-09-28 at 12 45 14 AM" src="https://github.com/AlvynK123/PlanetHunters/assets/35633980/e090b101-8760-463e-8a23-6f94587dbe63">
+
+
 ### Results
 KNN Algorithm
 - Relies on Clustering to Separate exoplanet and non-exoplanet data
